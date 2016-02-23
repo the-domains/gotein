@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.6049426887780904
+  lightness: 0.14487557228090187
+  rhythmicContrast: 0.07368321266764832
+  saturation: 0.15256511071894507
+cta: {}
+layout_spectrum: 0.6121786033630982
+name: GOTEIN
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.42210870026364733
